@@ -17,8 +17,10 @@ Intel(R) Dual Band Wireless-AC 3165
 Realtek Lan
 
 OS :
-Catalina 10.15.7 : Tested
-Big Sur 11.1 : Tested
+Catalina 10.15.7
+
+Big Sur 11.1
+
 
 ## What works
  
