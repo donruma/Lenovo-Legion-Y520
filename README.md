@@ -2,6 +2,13 @@
 
 This repository is a buckup data for my OpenCore EFI hackintosh 
 
+##  OpenCore
+
+[OC-0.6.4 For Catalina](https://github.com/donruma/Lenovo-Legion-Y520/releases/tag/0.1)
+
+[OC-0.6.4 For Big Sur's](https://github.com/donruma/Lenovo-Legion-Y520/releases/tag/0.2)
+
+
 ##  Specification
 
 Intel Core i7-7700HQ Processor 2.81GHz
