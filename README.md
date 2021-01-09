@@ -50,7 +50,7 @@ Messages/FaceTime.
 
 HDMI
 
-Bluetooth "Catalina Only"
+Bluetooth
 
 ## What does not work
 
