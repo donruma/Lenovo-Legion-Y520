@@ -1,6 +1,6 @@
 # Lenovo-Legion-Y520
 
-This repository is a buckup data for my OpenCore EFI hackintosh 
+This repository is a backup  data for my OpenCore EFI hackintosh 
 
 ##  Specification
 
